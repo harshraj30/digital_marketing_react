@@ -5,7 +5,7 @@ import { GiCheckMark } from "react-icons/gi";
 const HomePage_Hero = () => {
 
     const [userInput, setUserInput] = useState({
-        category: '',
+        category: 'i',
         business_in_us: '',
         no_of_employee: '',
         first_name: '',
